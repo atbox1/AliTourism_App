@@ -118,7 +118,7 @@ def Issue_Reporter_Form():
         #tourism_data = tourism_data.filter(Tourism_Data.content.like('%' + searched + '%'))
         #return render_template('location-search.html', searched = searched, form = form)
 
-
+if name == 'main':
 
 app.run(debug=True)
 
