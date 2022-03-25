@@ -1,0 +1,18 @@
+/*
+-- Query: SELECT * FROM tourism_app_db.tourism__data
+LIMIT 0, 1000
+
+-- Date: 2022-03-10 18:13
+*/
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','BlackCard Cultural Tours','Stanley Place, South Brisbane, QLD 4101','QLD','https://www.queensland.com/au/en/things-to-do/tours/p-60889baaaf20d560145ea7e7-blackcard-cultural-tour',610437,'Non',-27.5022,153.044);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','Coral Expeditions - Cape York and Arnhem Land','246 Hartley Street, Bungalow, QLD 4870','QLD','https://www.queensland.com/au/en/things-to-do/tours/p-588050877259a0f90e7b232c-coral-expeditions--cape-york-and-arnhem-land',611800,'Non',-16.9414,145.757);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','Birrunga Gallery and Dining','300 Adelaide Street, Brisbane City, QLD 4000  ','QLD','https://www.queensland.com/au/en/things-to-do/attractions/p-5d819d01522bf75630fd5516-birrunga-gallery-and-dining',6173705,'Non',-27.4652,153.027);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','Bama Way Aboriginal Journeys (Adventure North) ','26 Redden Street, Portsmith, QLD 4870','QLD','https://www.queensland.com/en-au/tour/adventure-north-australia',6174047,'Non',-16.9461,145.764);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','Abbey Museum of Art & Archaeology','1-63 The Abbey Pl, CABOOLTURE, QLD 4510','QLD','abbeymuseum.asn.au',6174056,'$8.50 admission for seniors, and carers FREE.',-27.065,153.023);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','Agnes Water Museum','Springs Rd, AGNES WATER, QLD 4677','QLD','agneswatermuseum.com',6174057,'$3 adult entry, children free.',-24.2285,151.919);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','Aquaduck Sunshine Coast','Parkyn Parade, MOOLOOLABA, QLD 4557','QLD','aquaduck.com.au/sunshine-coast',6174058,'50% off all tours for Carer card holders.  10% off all tours for Senior card holders',-26.6847,153.127);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','Archer Park Rail Museum','Denison St, ROCKHAMPTON, QLD 4700 ','QLD','steamtram.rockhampton.qld.gov.au',6174059,'Cardholder discount applies on presentation of card.',-23.3722,150.504);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','Australia Zoo','1638 Steve Irwin Way, BEERWAH, QLD 4519 ','QLD','http://www.australiazoo.com.au',6174060,'Non',-26.8356,152.962);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','Australian Butterfly Sanctuary','8 Rob Veivers Drive, KURANDA, QLD 4881','QLD','australianbutterflies.com',6174061,'Non',-16.8198,145.633);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','Australian Whale Watching','Marina Mirage, MAIN BEACH QLD 4217','QLD','australianwhalewatching.com.au',6174062,'Non',-27.9548,153.427);
+INSERT INTO `` (`img`,`name`,`full_adress`,`state`,`website`,`phone_number`,`senior_discount`,`latitude`,`longitude`) VALUES ('','','','','',6174063,'',0,0);
