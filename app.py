@@ -10,6 +10,8 @@ from wtforms import StringField, validators, form, HiddenField
 from wtforms.validators import DataRequired
 from flask_admin import Admin
 from flask_admin.contrib.sqla import ModelView
+import os
+port = int(os.environ.get('PORT', 5000))
 
 
 
@@ -120,7 +122,7 @@ def Issue_Reporter_Form():
 
 if name == 'main':
 
-app.run(debug=True)
+app.run(host='0.0.0.0', port=port, debug=True)
 
 
 
